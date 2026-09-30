@@ -1,0 +1,10 @@
+{
+  "name": "Smart Student Attendance",
+  "description": "نظام الحضور الذكي للطلاب عبر التعرف على الوجوه والتكامل مع جوجل درايف وإكسل",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
